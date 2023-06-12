@@ -1,4 +1,13 @@
-### Hi there 👋
+<h2> Bem vindo ao meu repositório GitHub </h2>
+<hr>
+Turma 20201076 - TÉCNICO EM INFORMÁTICA
+
+🥒 🌧️
+
+[Meu YouTube](https://www.youtube.com/)
+
+<hr>
+FIM
 
 <!--
 **GClermont/GClermont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
